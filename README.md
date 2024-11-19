@@ -18,9 +18,6 @@ This chrome extension is for students taking tests on the **`Iamneo portal`**, *
 > I am not responsible for any actions taken, and I do not encourage or promote cheating in any way.  
 > Be cautious when using the extension to maintain academic integrity.
 
-> [!WARNING]
-> **Exiting Fullscreen**: Exiting fullscreen mode may cause the test to submit after certain attempts, instead, use **`Alt + Tab`**
-
 ## ✨ Features
 
 - **`NPTEL Integration`** : Solve NPTEL Wildlife ecology answers
